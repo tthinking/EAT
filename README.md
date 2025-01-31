@@ -21,17 +21,17 @@ If this work is helpful to you, please cite it as:</p>
   journal={IEEE Transactions on Multimedia}, 
   title={EAT: Multi-Exposure Image Fusion with Adversarial Learning and Focal Transformer}, 
   year={2025},
-  volume={}, 
+  volume={},
   number={},
-  pages={5413-5428},
-  doi={10.1109/TMM.2025.3535390}}"><pre class="notranslate"><code@ARTICLE{Tang_2025_EAT,
+  pages={},
+  doi={10.1109/TMM.2025.3535390}}"><pre class="notranslate"><code>@ARTICLE{Tang_2025_EAT,
   author={Tang, Wei and He, Fazhi},
   journal={IEEE Transactions on Multimedia}, 
   title={EAT: Multi-Exposure Image Fusion with Adversarial Learning and Focal Transformer}, 
   year={2025},
-  volume={}, 
+  volume={},
   number={},
-  pages={5413-5428},
+  pages={},
   doi={10.1109/TMM.2025.3535390}}
 </code></pre></div>
 
